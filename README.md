@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-project
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# Vue_ToDo_List
+A todo list app made by Vue Js
+>>>>>>> d431e45b299b9c53d2ed4fd4cbaec28c4eb4f3fe
