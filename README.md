@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# vue-project
+# vue-Todo-List built with Vue.js
+## Live Preview: https://dynamic-stroopwafel-81a367.netlify.app/
+![Screenshot 2023-09-27 003503](https://github.com/mohammed-45/Vue_ToDo_List/assets/113661322/4369bac6-de0a-44cf-b23a-725f5ec08af1)
 
 This template should help get you started developing with Vue 3 in Vite.
 

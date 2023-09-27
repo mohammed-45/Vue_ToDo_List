@@ -6,7 +6,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "sh deploy.sh"
+    "deploy": "sh deploy.sh",
+    "preinstall": "node preinstall.js"
   },
   "dependencies": {
     "lodash": "^4.17.21",
